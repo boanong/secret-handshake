@@ -1,25 +1,26 @@
-# BLOG TEMPLATE
+# SECRETE HANDSHAKE
 
 ## AUTHOR
 BOANONG JOSHUA
 [@boanong](https://github.com/boanong)
 
 ## OVERVIEW
-  ![home page](assets/images/preview.PNG)
+  ![home page](assets/media/images/preview.PNG)
 
 
 ## About
 
-This is a Blog template. The project was taken as a learning tutorial to help build my HTML and CSS skills..
+This project was taken as a learning tutorial to help build my JavaScript skills..
 
 ## Built With
   This project was built with
 - HTML
-- and CSS
+- CSS
+- And JavaScript
 
 ### Prerequisites
 
- you should have Knowledge about:
+ You should have Knowledge about:
 
 - GitHub
 - CSS grids and flex box
@@ -28,20 +29,20 @@ This is a Blog template. The project was taken as a learning tutorial to help bu
 ## Clone project
 
 - To get a local copy, follow these simple example steps.
-- Clone this repository with `https://github.com/boanong/blog-project` using your terminal or command-line.
+- Clone this repository with `git@github.com:boanong/secret-handshake.git` using your terminal or command-line.
 
 ## Command-line steps
 
-- $ `git@github.com:boanong/blog-project.git`
-- $ `cd wedding-template`
+- $ `git@github.com:boanong/secret-handshake.git`
+- $ `cd secrete-handshake`
 - $ `git checkout feature/body`
 
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/boanong/blog-project/issues)
+Feel free to check the [issues page](https://github.com/boanong/secret-handshake/issues)
 
 ## 📝 License (optional)
 
-This project is [W3School](./LICENSE)licensed.
+This project is [Rebase Academy](./LICENSE)licensed.
